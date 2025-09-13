@@ -1,4 +1,4 @@
-``# 🌦️ Weather Dashboard
+# 🌦️ Weather Dashboard
 
 A simple and responsive **Weather Dashboard** built using **HTML, CSS, and JavaScript**.  
 This project allows users to search for a city and view the current weather conditions, temperature, humidity, and more by fetching data from a weather API.
