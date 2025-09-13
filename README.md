@@ -28,7 +28,6 @@ This project allows users to search for a city and view the current weather cond
 ````
 
 2. Open the project folder:
-
    ```bash
    cd weather-dashboard
    ```
