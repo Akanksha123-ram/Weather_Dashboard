@@ -1,6 +1,3 @@
-Here’s a clean **README.md** template you can use for your **Weather Dashboard Project** (HTML, CSS, JS). You can copy-paste this into a `README.md` file in your GitHub repo:
-
-````markdown
 # 🌦️ Weather Dashboard
 
 A simple and responsive **Weather Dashboard** built using **HTML, CSS, and JavaScript**.  
